@@ -39,7 +39,7 @@ This will download the project files to your local machine and navigate you into
 
   ```bash
    javac *.java
-3.**Run the Main Program** :
+3. **Run the Main Program** :
   After compiling, you can run the game by executing the `Battleship` class:
 
   ```bash
